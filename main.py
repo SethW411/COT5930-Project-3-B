@@ -20,7 +20,7 @@ def index():
 
     index_html = """
     <style>
-        body { background-color: LIGHTRED; font-family: Arial; }
+        body { background-color: lightgreen; font-family: Arial; }
     </style>
     <form method="post" enctype="multipart/form-data" action="/upload">
         <label for="file">Choose file to upload</label>
