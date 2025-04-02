@@ -44,8 +44,8 @@ substitutions:
   _AR_REPOSITORY: cloud-run-source-deploy
   _AR_PROJECT_ID: cot5930-project
   _PLATFORM: managed
-  _SERVICE_NAME: cot5930-project-3-red
+  _SERVICE_NAME: cot5930-project-3
 tags:
   - gcp-cloud-build-deploy-cloud-run
   - gcp-cloud-build-deploy-cloud-run-managed
-  - cot5930-project-3-red
+  - cot5930-project-3
